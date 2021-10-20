@@ -1,0 +1,62 @@
+html {
+  font-size: 13px;
+  font-family: 'Raleway', sans-serif;
+  background-image:url(images/poop.jpg);
+  background-color:wheat;
+      }
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px;
+  border: 5px solid black;
+      }
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-aling: center;
+    color:whitesmoke;
+    background-color:rgb(100, 121, 100);
+    width: 500px;
+      }
+
+      p, a {
+        font-size: 20px;
+        text-aling: center;
+        color:whitesmoke;
+        background-color:rgb(100, 121, 100);
+        width: 500px;
+          }
+
+h2{
+  margin: 0 auto;
+  font-size: 25px;
+  line-height: 2;
+  letter-spacing:1px;
+    color: green;
+  }
+
+  li{
+    margin: 0;
+    font-size: 15px;
+    line-height: 2;
+    letter-spacing:1px;
+      color: green;
+    }
+
+  <span> {
+    font-size:40px;
+    background-color: yellow;
+  }
+
+  <span2>  {
+    font-size:40px;
+    background-color: brown;
+  }
+
+img {
+  display:block;  /*treat photo like rest of text and align like text, not at margin */
+  margin: 0 auto;  /*align the photo in the center of the page */
+}
